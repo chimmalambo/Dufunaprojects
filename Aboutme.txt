@@ -1,3 +1,4 @@
 Hello world.
-
 My name is Chimuka Malambo.
+I'm hoping to learn some tech skills.
+I am currently getting familiar with github.
